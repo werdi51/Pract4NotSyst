@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ShapeTests/ShapeTests.csproj" Id="41948f61-4652-47c2-8693-5b3dc7d75e6b" />
+  <Project Path="GeometryShape.csproj" />
+</Solution>
