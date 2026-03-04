@@ -14,6 +14,8 @@ namespace ShapeTests
         [InlineData(0, 2)]
         [InlineData(-11, -10)]
         [InlineData(18, -22)]
+        [InlineData(18, 22)]
+
 
 
         public void CorrectArgumentTestsRectangle(double width, double height)
