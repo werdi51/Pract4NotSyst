@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3b0xAIuEYGs=",
+  "dgSpecHash": "2v4TYPnqOTU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\OneDrive\\Desktop\\NeNeSys\\4\\ShapeTests\\ShapeTests.csproj",
+  "projectFilePath": "C:\\Users\\anton\\Desktop\\qwqw\\Pract4NotSyst\\ShapeTests\\ShapeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\anton\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
