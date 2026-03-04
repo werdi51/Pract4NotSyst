@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Desktop\\NeNeSys\\4\\GeometryShape\\GeometryShape.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\Desktop\\qwqw\\Pract4NotSyst\\GeometryShape\\GeometryShape.csproj",
       "projectName": "GeometryShape",
-      "projectPath": "C:\\Users\\anton\\OneDrive\\Desktop\\NeNeSys\\4\\GeometryShape\\GeometryShape.csproj",
+      "projectPath": "C:\\Users\\anton\\Desktop\\qwqw\\Pract4NotSyst\\GeometryShape\\GeometryShape.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\OneDrive\\Desktop\\NeNeSys\\4\\GeometryShape\\obj\\",
+      "outputPath": "C:\\Users\\anton\\Desktop\\qwqw\\Pract4NotSyst\\GeometryShape\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
