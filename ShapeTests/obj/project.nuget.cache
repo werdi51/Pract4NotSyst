@@ -94,5 +94,15 @@
     "C:\\Users\\anton\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
     "C:\\Users\\anton\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс служб для источника https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\anton\\Desktop\\qwqw\\Pract4NotSyst\\ShapeTests\\ShapeTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\anton\\Desktop\\qwqw\\Pract4NotSyst\\ShapeTests\\ShapeTests.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
